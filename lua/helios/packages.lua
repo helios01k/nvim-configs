@@ -12,5 +12,6 @@ vim.pack.add({
 	"https://github.com/folke/trouble.nvim",
 	"https://github.com/folke/lazydev.nvim", -- apply patch #2 for lua lang server
 	"https://github.com/nvim-lualine/lualine.nvim",
-	"https://github.com/saghen/blink.cmp"
+	"https://github.com/saghen/blink.cmp",
+	"https://github.com/nvim-tree/nvim-tree.lua"
 })
